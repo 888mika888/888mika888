@@ -34,6 +34,13 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=888mika888&theme=nightowl&radius=10" alt="888mika888's Activity Graph" />
 </p>
 
+🛠️ Languages:
+<p align="center">
+  <a href="https://github.com/888mika888">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=888mika888&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE1Y3lldnk0a2xhbzB5bXB2ZTVjczlveDMycHh3dGhnODRhajY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CvGf22Z8iEQXfNVjhv/giphy.gif"  />
 </div>

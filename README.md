@@ -21,6 +21,9 @@
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo" />
+<img width="12" />
 </div>
 
 📊 Stats:

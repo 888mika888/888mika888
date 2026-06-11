@@ -24,6 +24,10 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo" />
 <img width="12" />
+<img src="https://skillicons.dev/icons?i=robloxstudio" height="30" alt="robloxstudio logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=lua" height="30" alt="robloxstudio logo" />
+<img width="12" />
 </div>
 
 📊 Stats:

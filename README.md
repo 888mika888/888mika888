@@ -18,10 +18,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=robloxstudio" height="30" alt="robloxstudio logo" />

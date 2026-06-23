@@ -43,5 +43,5 @@
 🛠️ Languages:
 <p align="center">
   <a href="https://github.com/888mika888">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=888mika888&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=888mika888&langs_count=8&layout=compact&theme=nightowl&border_radius=10"       alt="Top Languages" />
   </a>

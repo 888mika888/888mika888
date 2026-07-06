@@ -39,6 +39,9 @@
 <p align="center">
 <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=888mika888&theme=nightowl&radius=10" alt="888mika888's Activity Graph" />
 </p>
+<p align="center">
+  <img src="bleach-ishida-uryu.gif"/>
+</p>
 
 🛠️ Languages:
 <p align="center">

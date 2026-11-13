@@ -6,23 +6,33 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
 <img width="12" />
+<img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 <img width="12" />
+<img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+<img src="https://skillicons.dev/icons?i=debian" height="30" alt="debian logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo" />
+<img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=robloxstudio" height="30" alt="robloxstudio logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=lua" height="30" alt="robloxstudio logo" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="github actions logo"  />
 <img width="12" />
 </div>
 

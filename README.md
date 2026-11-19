@@ -37,12 +37,7 @@
 </div>
 
 📊 Stats:
-<p align="center">
-<a href="https://github.com/888mika888">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=888mika888&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="888mika888's GitHub Stats" />
-</a>
-<!--<img src="https://streak-stats.demolab.com/?user=888mika888&theme=nightowl&hide_border=true&cache_seconds=86400" alt="888mika888's GitHub Streak" width="49%"/>-->
-</p>
+<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 <p align="center">
   <img src="uryu_banner.gif" width="498"/>
 </p>

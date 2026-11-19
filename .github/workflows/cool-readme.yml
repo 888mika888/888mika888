@@ -17,6 +17,7 @@ jobs:
       - uses: pedrocatalao/github-cool-readme@v1
         with:
           token: ${{ secrets.CARDS_TOKEN }}
+          config: cool-readme.yml
           output: ${{ runner.temp }}/cards
 
       - name: Publish cards

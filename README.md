@@ -44,7 +44,7 @@
   <img src="uryu_banner.gif" width="498"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/888mika888/888mika888/cards/summary.svg"
+  <img src="https://raw.githubusercontent.com/888mika888/888mika888/cards/summary-dark.svg"
        width="498"
        alt="GitHub Stats">
 </p>

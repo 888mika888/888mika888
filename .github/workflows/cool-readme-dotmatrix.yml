@@ -1,8 +1,0 @@
-user: 888mika888
-
-look:
-  style: dotmatrix
-  color: green
-  background: 050805
-
-show: [summary, languages, contributions, weekly, streaks]

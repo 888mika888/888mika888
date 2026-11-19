@@ -38,7 +38,7 @@
 
 📊 My Stats:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/888mika888/888mika888/cards/languages.svg"
+  <img src="https://raw.githubusercontent.com/888mika888/888mika888/cards/languages-dark.svg"
        width="498"
        alt="GitHub Languages">
 </p>

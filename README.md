@@ -36,9 +36,11 @@
 <img width="12" />
 </div>
 
-🌳 My Bonsai:
+📊 My Stats:
 <p align="center">
-  <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+  <img src="https://raw.githubusercontent.com/888mika888/888mika888/cards/languages.svg"
+       width="498"
+       alt="GitHub Languages">
 </p>
 <p align="center">
   <img src="uryu_banner.gif" width="498"/>

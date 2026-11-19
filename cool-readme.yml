@@ -1,6 +1,8 @@
 user: 888mika888
 
-show: [summary]
+show:
+  - summary
+  - languages
 
 count:
   private: true
@@ -9,7 +11,7 @@ count:
 look:
   style: dotmatrix
   color: blue
-  background: 071426
+  background: "071426"
   animations: true
 
 cards:

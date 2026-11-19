@@ -36,8 +36,10 @@
 <img width="12" />
 </div>
 
-📊 Stats:
-<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+🌳 My Bonsai:
+<p align="center">
+  <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+</p>
 <p align="center">
   <img src="uryu_banner.gif" width="498"/>
 </p>

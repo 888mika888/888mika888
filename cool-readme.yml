@@ -1,13 +1,15 @@
 user: 888mika888
 
+show: [summary]
+
 count:
   private: true
   orgs: true
 
 look:
   style: dotmatrix
-  color: green
-  background: none
+  color: blue
+  background: 071426
   animations: true
 
 cards:

@@ -1,0 +1,21 @@
+user: 888mika888
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: dotmatrix
+  color: green
+  background: none
+  animations: true
+
+cards:
+  summary:
+    ring: github
+  languages:
+    count: 6
+  contributions:
+    open: true
+  weekly: {}
+  streaks: {}
